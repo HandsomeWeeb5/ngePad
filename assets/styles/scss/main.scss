@@ -1,6 +1,5 @@
-// * Import bootstrap
-@use 'node_modules/bootstrap/scss/variables';
-
 //* Custom Variables
 $primary: #414141;
 
+// * Import bootstrap
+@import "../../../node_modules/bootstrap/scss/bootstrap";

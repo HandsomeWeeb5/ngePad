@@ -11,5 +11,9 @@
     "url": "https://github.com/HandsomeWeeb5"
   },
   "author": "Farhan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "jquery": "^3.6.0"
+  }
 }
