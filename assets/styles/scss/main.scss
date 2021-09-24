@@ -1,5 +1,22 @@
+
+
 //* Custom Variables
 $primary: #414141;
+$font-family-sans-serif: "Segoe UI", sans-serif;
+
+// * Import Typography
 
 // * Import bootstrap
 @import "../../../node_modules/bootstrap/scss/bootstrap";
+@import 'modules/typography';
+
+
+// * Navbar Wrapper
+.navbar-wrapper{
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+// * custom Spacer 
+$spacer: 2rem;
